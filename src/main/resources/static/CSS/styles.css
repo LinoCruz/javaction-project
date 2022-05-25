@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+
+
+@media screen and (min-width: 700px){
+	.section-instructions{
+	margin-top:155px;
+	}
+	
+}
+
+@media screen and (min-width: 400px){
+	.section-instructions{
+	margin-top:230px;
+	}
+	
+}
+
+
+
+@media screen and (min-width: 992px){
+	.section-instructions{
+	margin-top:90px}
+}
